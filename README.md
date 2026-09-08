@@ -47,10 +47,7 @@ The methods are compared using quantities such as:
 
 - Power
 - False discovery rate (FDR)
-- True positives
-- False positives
 - Top-100 true positives
-- Precision and recall among top-ranked hypotheses
 - Average precision
 
 ## Repository structure
